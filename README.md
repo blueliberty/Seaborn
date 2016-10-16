@@ -2,7 +2,7 @@
 根据matplotlib文档和Seaborn文档
 
 > 作者：周振宇  
-> 邮件：blue_liberty@163.com
+> 邮箱：blue_liberty@163.com
 
 ## 目录
 + [Matplotlib](http://nbviewer.jupyter.org/github/blueliberty/Seaborn/blob/master/0.Matplotlib.ipynb)
